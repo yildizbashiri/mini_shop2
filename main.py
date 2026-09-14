@@ -9,10 +9,11 @@ print("Product List")
 for product, price in products.items():
     print(product, ":", price, ("$"))
 
-product_name = input("Enter the product name:")
 
-total = 0
-for product in product_name.split():
-    if product in products:
-        total = total + products[product]
-print("total Price:", total)
+product_name = input("Enter the product name:")
+if product_name in products:
+    quantity = int(input("How many do you want? "))
+    total = products[product_name] * quantity
+    print("total Price:", total)
+else:
+    print("Product not found")
