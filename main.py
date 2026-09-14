@@ -1,11 +1,9 @@
+from products import products
+
 name = input("what is your name ?")
 print("hi", name)
 
-products = {
-    "milk" : 30,
-    "apple" : 20,
-    "bread" : 10,
-}
+
 
 print("Product List")
 for product, price in products.items():
