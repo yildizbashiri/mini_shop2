@@ -1,1 +1,11 @@
-sales.txt
+# Sales file
+Sales.txt
+
+# Python cache
+__pycache__/
+
+# Log files
+*.log
+
+# Environment variables
+.env
