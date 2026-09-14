@@ -9,7 +9,7 @@ products = {
 
 print("Product List")
 for product, price in products.items():
-    print(product, "-", price)
+    print(product, ":", price, ("$"))
 
 product_name = input("Enter the product name:")
 
