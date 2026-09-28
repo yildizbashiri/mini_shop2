@@ -1,8 +1,6 @@
 # Python Shopping System
 A simple shopping system built with Python
 ## Tabel of content
-  
-- [Tabel of content](#tabel-of-content)
 - [Features](#features)
 - [Project structure](#project-structure)
 - [Requirment](#requirment)
@@ -10,6 +8,7 @@ A simple shopping system built with Python
 - [Environment Setup](#environment-setup)
 - [Usage](#usage)
 - [Example Output](#example-output)
+- [screenshot](#screenshot)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -124,6 +123,18 @@ How many do you want? 4
 
 total Price: 40
 ```
+## screenshot
+
+### start shopping
+![start game ](pictures\num1.png)
+
+### quiz
+![quiz](pictures\num2.png)
+
+### final 
+![final ](pictures\num1.png)
+
+
 ## Roadmap
 - [x] add multiple quiz questions
 - [x] calculate the final score
