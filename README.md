@@ -54,14 +54,19 @@ mini_shop2/
 
 ### File Description
 
-
-- `main.py` - main file used to run the shopping system
-- `products.py` - stores product names and prices
-- `requirments.txt` - list the python packages needed for the project 
-- `.env` - stores the admin password securely
-- `.gitignore` - tells Git which files and folders should not be tracked
-- `sales.txt` - stores the sales information
-- `README.md` - contains the project documentation
+| file | Description |
+| --- | --- |
+| `main.py` | main file used to run the shopping system |
+| `products.py` | stores product names and prices|
+| `requirments.txt` | list the python packages needed for the project |
+| `.env` | stores the admin password securely|
+| `.gitignore` | tells Git which files and folders should not be tracked|
+| `sales.txt` | stores the sales information|
+ `README.md` | contains the project documentation |
+| `pictures/` | stors project scrinshots |
+| `pictures/num1.png` | scrinshots start shopping |
+| `pictures/num2.png` | scrinshots quiz shopping |
+| `pictures/num3.png` | scrinshots final shopping |
 
 ## Requirment
 Before running the project, make sure you have:
