@@ -4,4 +4,5 @@ products = {
     "bread" : 10,
     "cake" : 5,
     "coffee" : 140,
+    "wather" : 10
 }
