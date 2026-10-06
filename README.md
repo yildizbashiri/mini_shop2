@@ -1,4 +1,6 @@
 # Python Shopping System
+![Static Badge](https://img.shields.io/badge/python-3.12-blue)
+
 A simple shopping system built with Python
 ## Tabel of content
 - [Features](#features)
@@ -46,10 +48,19 @@ mini_shop2/
 │   main.py
 │   products.py
 |   requirments.txt
-│   .env
 │   .env.example
 │   .gitignore
 │   README.md
+│  
+│
+├───gifs
+│       quiz.gif
+│
+├───pictures
+│       num1.png
+│       num2.png
+├───    num3.png
+
 ```
 
 ### File Description
@@ -67,6 +78,8 @@ mini_shop2/
 | `pictures/num1.png` | scrinshots start shopping |
 | `pictures/num2.png` | scrinshots quiz shopping |
 | `pictures/num3.png` | scrinshots final shopping |
+| `gifs/` | stors demo gif file |
+| `gifs/quiz.gif` | shows the project|
 
 ## Requirment
 Before running the project, make sure you have:
@@ -139,7 +152,8 @@ total Price: 40
 ### final 
 ![final ](pictures\num1.png)
 
-
+## Demo
+![QUIZ SHOP DEMO ](gifs\quiz.gif)
 ## Roadmap
 - [x] add multiple quiz questions
 - [x] calculate the final score
